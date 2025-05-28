@@ -1,0 +1,38 @@
+{
+    "aishwarya@gmail.com": {
+        "name": "aish",
+        "password": "12345"
+    },
+    "aish14@gmail.com": {
+        "name": "aish",
+        "password": "123456"
+    },
+    "shreya@gmail.com": {
+        "name": "shreya",
+        "password": "9876"
+    },
+    "rani@gmail.com": {
+        "name": "rani",
+        "password": "123"
+    },
+    "abc@gmail.com": {
+        "name": "abc",
+        "password": "123"
+    },
+    "rishabh@gmail.com": {
+        "name": "rishabh",
+        "password": "123"
+    },
+    "abhinav@gmail.com": {
+        "name": "abhinav ",
+        "password": "123"
+    },
+    "xyz@gmail.com": {
+        "name": "xyz",
+        "password": "12"
+    },
+    "pop@gmail.com": {
+        "name": "pop",
+        "password": "pop"
+    }
+}
